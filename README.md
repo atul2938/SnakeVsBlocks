@@ -23,11 +23,17 @@ We have made a detailed documentation for this project using Javadoc tool. Just 
 
 ## Game Screenshots
 
-<img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot1.png" width="300" height="473">
+<table width="100%">
+<tr>
+<td><img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot1.png" width="300" height="473"></td>
+<td align="center"><img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot2.png" width="300" height="473"></td>
+<td align="right"><img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot3.png" width="300" height="473"></td>
+</tr>
 
 
-<img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot2.png" width="300" height="473">
 
 
-<img src="https://github.com/anandthegreat/SnakeVSBlocks/blob/master/ScreenShots/ScreenShot3.png" width="300" height="473">
+
+
+
 
