@@ -1,5 +1,5 @@
 # SnakeVSBlocks
-A Snake game using JavaFX similar to SnakeVsBlocks. Protect the snake from blocks greater than its length and break other blocks to gain points. 
+A Snake game using **JavaFX** similar to SnakeVsBlocks. Protect the snake from blocks greater than its length and break other blocks to gain points. 
 ## Instructions 
 - You have to control the snake, collect food balls, and destroy blocks to get points.
 - The  speed of snake will increase gradually with time. 
